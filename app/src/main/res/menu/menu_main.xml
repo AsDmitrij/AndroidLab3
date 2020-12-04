@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.labservices.MainActivity">
+    <item
+        android:id="@+id/menu_any_random_item"
+        android:title="Any random" />
+    <item
+        android:id="@+id/menu_random_coin_item"
+        android:title="Random coin" />
+    <item
+        android:id="@+id/menu_random_range_item"
+        android:title="From random range" />
+    <item
+        android:id="@+id/menu_random_list_item"
+        android:title="From random list" />
+</menu>
