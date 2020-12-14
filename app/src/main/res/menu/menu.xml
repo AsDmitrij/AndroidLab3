@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_anyRandomFromNumber"
+        android:title="@string/menu_anyRandomFromNumber" />
+    <item android:id="@+id/menu_randomNumberOfSpecialLength"
+        android:title="@string/menu_randomNumberOfSpecialLength" />
+    <item android:id="@+id/menu_anyRandomToNumber"
+        android:title="@string/menu_anyRandomToNumber" />
+</menu>

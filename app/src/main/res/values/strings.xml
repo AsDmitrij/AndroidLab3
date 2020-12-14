@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="string_enterNumber">Enter number</string>
+    <string name="menu_anyRandomFromNumber">Any random from number</string>
+    <string name="menu_randomNumberOfSpecialLength">Number of specific length</string>
+    <string name="menu_anyRandomToNumber">Any random to number</string>
+    <string name="string_outNumber">Your number will be here!</string>
+</resources>
